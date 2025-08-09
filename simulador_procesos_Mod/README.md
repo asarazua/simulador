@@ -12,10 +12,9 @@ Simulador de Procesos Grupo #3 Sistemas Operativos
     Función generar_proceso_aleatorio: Crea instancias de Proceso con valores aleatorios para simular diferentes tipos de procesos.
     
     Ejemplo de estructura:
+<img width="662" height="238" alt="image" src="https://github.com/user-attachments/assets/0df2e168-0631-4daa-a8ac-5c11a493aa70" />
 
-    <img width="575" height="206" alt="image" src="https://github.com/user-attachments/assets/7cd06f20-784a-4cf8-978c-33f72164faea" />
-
-
+   
 # 2. Memoria.py
 
   Propósito: Gestiona la memoria RAM disponible y la asignación de procesos a la memoria.
@@ -37,8 +36,7 @@ Simulador de Procesos Grupo #3 Sistemas Operativos
     
     Ejemplo de estructura:
 
-
-    <img width="545" height="272" alt="image" src="https://github.com/user-attachments/assets/18d8f807-c646-4b7d-8b8b-d2b7ec208018" />
+<img width="629" height="314" alt="image" src="https://github.com/user-attachments/assets/db6035f0-65d5-4bf2-971d-3aede639f405" />
 
 
 ## Simulador.py
@@ -64,6 +62,7 @@ Simulador de Procesos Grupo #3 Sistemas Operativos
 
     <img width="643" height="365" alt="image" src="https://github.com/user-attachments/assets/0c2a2641-3cb7-43dd-b943-3ccd5c543351" />
 <img width="643" height="365" alt="image" src="https://github.com/user-attachments/assets/a23139fa-febb-4717-853f-12cd1597a79f" />
+
 
 
 
