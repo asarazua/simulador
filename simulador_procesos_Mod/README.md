@@ -27,6 +27,20 @@ Sistema operativo: Principalmente en Windows.
   
   Para usar el simulador, simplemente ejecuta el archivo principal del programa. Puedes modificar los archivos para agregar o cambiar los procesos y ver cómo se gestionan en la simulación. El programa mostrará en pantalla el estado actual de la memoria y la cola de procesos.
 
+# Capturas del funcionamiento del programa:
+En la siguiente imagen se muestra la interfaz gráfica implementada con las restricciones indicadas:
+<img width="498" height="403" alt="image" src="https://github.com/user-attachments/assets/75f81f0a-8180-40fd-8880-5dcf3a5777d9" />
+
+En la siguiente imagen se muestra la determinación de procesos, el consumo de memoria RAM por proceso y la duración en segundos, el cual está esablecido en aleatorio entre 5 y 9 segundos.
+También muestra los procesos en ejecución sin sobrepasar los 1024 MB.
+Muestra los procesos que están en cola a espera de memoria para ejecutarse.
+<img width="723" height="396" alt="image" src="https://github.com/user-attachments/assets/d319f081-c199-4640-9879-3fa96772b0e6" />
+
+Al completar todos los procesos, se libera la memoria RAM y la simulación queda completada.
+<img width="718" height="372" alt="image" src="https://github.com/user-attachments/assets/a783ce01-ba98-4f01-b393-37d07d45e33d" />
+
+
+
 ## 1. Proceso.py
 
   Propósito: Define la clase Proceso y la función para generar procesos aleatorios.
@@ -87,6 +101,7 @@ Sistema operativo: Principalmente en Windows.
     Inicializa y ejecuta la aplicación Kivy.
 
 <img width="643" height="365" alt="image" src="https://github.com/user-attachments/assets/a23139fa-febb-4717-853f-12cd1597a79f" />
+
 
 
 
