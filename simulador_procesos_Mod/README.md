@@ -60,8 +60,8 @@ Simulador de Procesos Grupo #3 Sistemas Operativos
     o
     Inicializa y ejecuta la aplicación Kivy.
 
-    <img width="643" height="365" alt="image" src="https://github.com/user-attachments/assets/0c2a2641-3cb7-43dd-b943-3ccd5c543351" />
 <img width="643" height="365" alt="image" src="https://github.com/user-attachments/assets/a23139fa-febb-4717-853f-12cd1597a79f" />
+
 
 
 
