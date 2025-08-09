@@ -1,10 +1,15 @@
 
-# simulador
+# Simulador
 Simulador de Procesos Grupo #3 Sistemas Operativos
+
+# La estructura en el repositorio
+Cuenta con una rama principal en la cual está contenido todo el proyecto.
+Dentro encontramos la carpeta simulador_procesos_Mod en donde encontramos un Readme.md de entrada con el título del proyecto
+y la carpeta denominada src (origen) que contiene todos los archivos del programa.
 
 # Simulador de Procesos
 
-Este proyecto simula procesos del sistema operativo, generando características como PID, nombre, uso de RAM, duración y si requieren lectura de entrada. Los procesos se crean de forma aleatoria para representar una carga variada del sistema.
+Este proyecto simula procesos del sistema operativo, generando características como PID, nombre, uso de RAM, duración y si requieren lectura de entrada. Los procesos se crean de forma aleatoria para representar una carga variada del sistema cuando se ejecuta en automático, aunque cuenta con la opción de ejecutar procesos de forma manual a elección del usuario.
 
 ## 🚀 Tecnologías utilizadas
 
@@ -31,3 +36,4 @@ Este proyecto simula procesos del sistema operativo, generando características 
 cd src
 python simulador.py
 (Versión inicial con arquitectura base y clase Memoria)
+
