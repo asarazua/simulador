@@ -1,7 +1,27 @@
-# Simulador (Proceso)
+# Simulador (Proceso) Descripción del Proyecto
 Simulador de Procesos Grupo #3 Sistemas Operativos
 
-# 1. Proceso.py
+El programa simula la gestión de procesos y la administración de memoria en un sistema operativo, permitiendo al usuario agregar procesos manualmente o generarlos automáticamente, y visualizando en tiempo real el uso de la memoria y el estado de los procesos mediante una interfaz gráfica
+
+# Tecnologías Implementadas: 
+  Para elaboración de este proyecto se utilizó el lenguaje de programación Python.
+  Para editor de código se utilizó VS Code.
+  El proyecto se subió a Github en un repositorio público
+
+# Tecnologías Implementadas: 
+  Lenguaje de programación: Python
+
+Entorno de desarrollo: Visual Studio Code (VS Code)
+
+Control de versiones: Git y GitHub (para gestión del código y colaboración en equipo)
+
+Librerías/Frameworks (si aplicaste alguna):
+
+Por ejemplo, si usaste alguna librería como threading, multiprocessing, psutil u otra, aquí la mencionas.
+
+Sistema operativo: (opcional) Indica si desarrollaste principalmente en Windows, Linux o macOS
+
+## 1. Proceso.py
 
   Propósito: Define la clase Proceso y la función para generar procesos aleatorios.
   
@@ -61,6 +81,7 @@ Simulador de Procesos Grupo #3 Sistemas Operativos
     Inicializa y ejecuta la aplicación Kivy.
 
 <img width="643" height="365" alt="image" src="https://github.com/user-attachments/assets/a23139fa-febb-4717-853f-12cd1597a79f" />
+
 
 
 
