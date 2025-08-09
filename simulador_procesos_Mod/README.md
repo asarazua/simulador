@@ -4,22 +4,28 @@ Simulador de Procesos Grupo #3 Sistemas Operativos
 El programa simula la gestión de procesos y la administración de memoria en un sistema operativo, permitiendo al usuario agregar procesos manualmente o generarlos automáticamente, y visualizando en tiempo real el uso de la memoria y el estado de los procesos mediante una interfaz gráfica
 
 # Tecnologías Implementadas: 
-  Para elaboración de este proyecto se utilizó el lenguaje de programación Python.
-  Para editor de código se utilizó VS Code.
-  El proyecto se subió a Github en un repositorio público
-
-# Tecnologías Implementadas: 
   Lenguaje de programación: Python
 
 Entorno de desarrollo: Visual Studio Code (VS Code)
 
-Control de versiones: Git y GitHub (para gestión del código y colaboración en equipo)
+Control de versiones: GitHub (para gestión del código y colaboración en equipo)
 
-Librerías/Frameworks (si aplicaste alguna):
+Librerías/Frameworks: importante threading
 
-Por ejemplo, si usaste alguna librería como threading, multiprocessing, psutil u otra, aquí la mencionas.
+Sistema operativo: Principalmente en Windows.
 
-Sistema operativo: (opcional) Indica si desarrollaste principalmente en Windows, Linux o macOS
+# Instrucciones de instalación y uso: 
+  Requisitos Previos
+    Tener instalado Python 3.x (preferiblemente la última versión estable). Puedes descargarlo desde python.org.
+    
+    Tener instalado Git para clonar el repositorio (puedes realizarlo desde github en línea)
+    
+    (Opcional) Visual Studio Code para editar y ejecutar el código.
+
+  Instalación
+    Para comenzar, primero debes clonar el repositorio desde GitHub en tu computadora. Luego, accede a la carpeta del proyecto y, si deseas, crea un entorno virtual para manejar las dependencias de Python. Si el proyecto utiliza librerías externas, instálalas antes de ejecutar el programa.
+  
+  Para usar el simulador, simplemente ejecuta el archivo principal del programa. Puedes modificar los archivos para agregar o cambiar los procesos y ver cómo se gestionan en la simulación. El programa mostrará en pantalla el estado actual de la memoria y la cola de procesos.
 
 ## 1. Proceso.py
 
@@ -81,6 +87,7 @@ Sistema operativo: (opcional) Indica si desarrollaste principalmente en Windows,
     Inicializa y ejecuta la aplicación Kivy.
 
 <img width="643" height="365" alt="image" src="https://github.com/user-attachments/assets/a23139fa-febb-4717-853f-12cd1597a79f" />
+
 
 
 
