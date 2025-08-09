@@ -54,7 +54,8 @@ Al completar todos los procesos, se libera la memoria RAM y la simulación queda
     Ejemplo de estructura:
 <img width="662" height="238" alt="image" src="https://github.com/user-attachments/assets/0df2e168-0631-4daa-a8ac-5c11a493aa70" />
 
-   
+
+# Descripción del código:
 # 2. Memoria.py
 
   Propósito: Gestiona la memoria RAM disponible y la asignación de procesos a la memoria.
@@ -102,6 +103,15 @@ Al completar todos los procesos, se libera la memoria RAM y la simulación queda
 
 <img width="643" height="365" alt="image" src="https://github.com/user-attachments/assets/a23139fa-febb-4717-853f-12cd1597a79f" />
 
+# Resumen: 
+•
+El programa simula la administración de procesos y memoria RAM, permitiendo observar cómo se asignan y ejecutan procesos en un entorno controlado.
+•
+Utiliza Kivy para la interfaz gráfica, facilitando la interacción y visualización.
+•
+Implementa concurrencia con hilos para simular la ejecución simultánea de procesos.
+•
+Permite experimentar con diferentes configuraciones de procesos y observar el impacto en el uso de la memoria.
 
 
 
